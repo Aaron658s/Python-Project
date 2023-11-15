@@ -3,6 +3,7 @@ import random
 #This code greets you.
 hello_list = ["How are you?, Are you good?, Welcome"]
 
+#this iterates over the list to display message
 for int in hello_list:
     print(int)
 
