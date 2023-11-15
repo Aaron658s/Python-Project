@@ -2,7 +2,9 @@ import random
 
 #This code greets you.
 hello_list = ["How are you?, Are you good?, Welcome"]
-print(f"Hello_list: {hello_list}")
+
+for int in hello_list:
+    print(int)
 
 #This function prints a message to encourage people to play.
 def letsplay():
